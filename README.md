@@ -10,4 +10,5 @@ Go back to webstorm and press get from VCS and then click login to github and lo
 You can add a new file to the repository by pressing file on the top left and pressing new file.
 
 Glossary
-**Branch** Hello
+
+**Branch**: Hello
