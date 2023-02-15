@@ -22,7 +22,7 @@ Glossary<br />
 **Pull**: Pull refers to when you are fetching in changes and merging them. For instance, if someone has edited the remote file you're both working on, you'll want to pull in those changes to your local copy so that it's up to date. See also fetch.  <br />
 **Remote**: This is the version of a repository or branch that is hosted on a server, most likely GitHub.com. Remote versions can be connected to local clones so that changes can be synced. <br /> 
 **Repository**: A repository is the most basic element of GitHub. They're easiest to imagine as a project's folder. A repository contains all of the project files (including documentation), and stores each file's revision history. Repositories can have multiple collaborators and can be either public or private.<br />
-References<br />
+<br />References<br />
 IntroToGitHub-20190318.pptx<br /> 
 https://docs.github.com/en/get-started/quickstart/github-glossary<br /> 
 https://www.techtarget.com/searchitoperations/definition/GitHub<br /> 
